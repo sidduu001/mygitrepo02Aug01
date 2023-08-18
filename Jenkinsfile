@@ -2,7 +2,7 @@ node
 {
     
 stage('clone') {
-   git 'https://github.com/maha4dsvc/mahalogin.git'
+   git 'https://github.com/sidduu001/mygitrepo02Aug01.git'
 }    
     
     
